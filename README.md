@@ -46,6 +46,7 @@ This creates a more efficient pipeline for turning document-based inspection rec
 
 ## Workflow Overview
 
+```text
 PDF Inspection Reports  
 ↓  
 Python Extraction Script  
